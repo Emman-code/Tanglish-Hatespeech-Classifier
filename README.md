@@ -24,7 +24,7 @@ Fine-tuned XLM-RoBERTa on a labeled Tanglish hate speech dataset. Hosted on [Hug
 
 ## 🖼️ Preview
 
-![app preview](assests/Model_ss.png)
+![app preview](assests/Model_ss.PNG) 
 
 ## 📜 License
 MIT License
